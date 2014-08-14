@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picto Vi3w3r", "Picto Vi3w3r.csproj", "{814607BE-A3F4-4FB6-94E9-1B942452425A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814607BE-A3F4-4FB6-94E9-1B942452425A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814607BE-A3F4-4FB6-94E9-1B942452425A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814607BE-A3F4-4FB6-94E9-1B942452425A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814607BE-A3F4-4FB6-94E9-1B942452425A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
